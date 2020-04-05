@@ -1,0 +1,4 @@
+#Sun Jan 05 01:35:48 IST 2020
+base.0=D\:\\flutterprojects\\xylophone-flutter\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
