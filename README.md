@@ -4,7 +4,4 @@ Music Xylophone Flutter application.
 
 ## Video Of The UI
 
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-<video src="video.mp4" width="320" height="200" controls preload></video>
+<video src="https://github.com/Sumit-Budhiraja/Flutter-App-development/blob/master/video/WhatsApp%20Video%202020-04-05%20at%2010.13.59%20PM.3gpp" width="320" height="200" controls preload></video>
