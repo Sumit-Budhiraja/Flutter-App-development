@@ -1,4 +1,4 @@
-co.appbrewery.xylophone
+com.sumit.xylophone
 attr alpha
 attr coordinatorLayoutStyle
 attr font
@@ -46,7 +46,6 @@ dimen notification_small_icon_size_as_large
 dimen notification_subtext_size
 dimen notification_top_pad
 dimen notification_top_pad_large_text
-drawable ic_launcher_background
 drawable launch_background
 drawable notification_action_background
 drawable notification_bg
@@ -112,8 +111,6 @@ layout notification_template_icon_group
 layout notification_template_part_chronometer
 layout notification_template_part_time
 mipmap ic_launcher
-mipmap ic_launcher_foreground
-mipmap ic_launcher_round
 string status_bar_notification_info_overflow
 style LaunchTheme
 style TextAppearance_Compat_Notification
